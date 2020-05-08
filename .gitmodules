@@ -1,0 +1,12 @@
+[submodule "CoronaProject"]
+	path = CoronaProject
+	url = https://github.com/SupergrammerKim/CoronaProject.git
+[submodule "SSAFY_Webmobile_Project"]
+	path = SSAFY_Webmobile_Project
+	url = https://github.com/SupergrammerKim/SSAFY_Webmobile_Project.git
+[submodule "SSAFY_AI_Project"]
+	path = SSAFY_AI_Project
+	url = https://github.com/SupergrammerKim/SSAFY_AI_Project.git
+[submodule "SSAFY_Final_Project"]
+	path = SSAFY_Final_Project
+	url = https://github.com/SupergrammerKim/SSAFY_Final_Project.git
